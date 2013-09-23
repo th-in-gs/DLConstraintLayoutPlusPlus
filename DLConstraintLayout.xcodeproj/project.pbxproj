@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7DE9035B17EC5542009EDE6B /* CALayer+DLConstraintLayout.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = C2EDF5EC17A28C4100F5528B /* CALayer+DLConstraintLayout.h */; };
+		7DE9035C17EC5542009EDE6B /* DLCLConstraint.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = C2EDF5F017A28C4F00F5528B /* DLCLConstraint.h */; };
+		7DE9035D17EC5542009EDE6B /* DLCLConstraintLayoutManager.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = C2EDF5F317A28C4F00F5528B /* DLCLConstraintLayoutManager.h */; };
 		C25F4FCE16F8900D00A8671C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C25F4FCC16F8900D00A8671C /* InfoPlist.strings */; };
 		C25F4FD016F8900D00A8671C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C25F4FCF16F8900D00A8671C /* main.m */; };
 		C25F4FD716F8900D00A8671C /* DLCLAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C25F4FD616F8900D00A8671C /* DLCLAppDelegate.m */; };
@@ -72,6 +75,9 @@
 			dstPath = "include/${PRODUCT_NAME}";
 			dstSubfolderSpec = 16;
 			files = (
+				7DE9035B17EC5542009EDE6B /* CALayer+DLConstraintLayout.h in CopyFiles */,
+				7DE9035C17EC5542009EDE6B /* DLCLConstraint.h in CopyFiles */,
+				7DE9035D17EC5542009EDE6B /* DLCLConstraintLayoutManager.h in CopyFiles */,
 				C2BF8AE816F0E404005F4627 /* DLConstraintLayout.h in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
