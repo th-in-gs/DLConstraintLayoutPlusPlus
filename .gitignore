@@ -1,0 +1,10 @@
+.DS_Store
+
+*.swp
+*~
+
+*.pbxuser
+*.mode?v?
+*.perspective
+*.perspectivev3
+xcuserdata
